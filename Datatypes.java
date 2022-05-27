@@ -7,7 +7,9 @@ public class Datatypes {
     public static void main(String[] args) {
         boolean bf = false ; 
         byte by = 127 ; 
-        char ch =65; 
+        by = 65; 
+        System.out.println((char)by);
+        char ch =97; 
         short sh = 'a' ; 
         sh   = by ; 
         int inta = 234324 ; 
